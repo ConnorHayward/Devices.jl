@@ -1,0 +1,8 @@
+name = "Devices"
+uuid = "ccd95034-fd38-11e8-0850-b5c216749c6b"
+authors = ["Connor Hayward <connor.hayward@hotmail.co.uk>"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
